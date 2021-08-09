@@ -5,6 +5,24 @@
       "selection-name": "Lucy",
       "deployment-phase": "Advanced Selection",
       "brix": 15
+    },
+    {
+      "selection-id": "087AC379",
+      "selection-name": "087AC379 - Ailene",
+      "deployment-phase": "OFT",
+      "brix": 10
+    },
+    {
+      "selection-id": "CB688.2",
+      "selection-name": "Julia",
+      "deployment-phase": "Early",
+      "brix": 11
+    },
+    {
+      "selection-id": "RJ0799.3",
+      "selection-name": "Sofie",
+      "deployment-phase": "Advanced Selection",
+      "brix": 15
     }
   ]
 }
