@@ -1,27 +1,27 @@
 {
   "breeding-summary-data": [
     {
-      "selection-id": "103D803",
-      "selection-name": "Lucy",
-      "deployment-phase": "Advanced Selection",
+      "selectionId": "103D803",
+      "selectionName": "Lucy",
+      "deploymentPhase": "Advanced Selection",
       "brix": 14.8
     },
     {
-      "selection-id": "087AC379",
-      "selection-name": "Ailene",
-      "deployment-phase": "OFT",
+      "selectionId": "087AC379",
+      "selectionName": "Ailene",
+      "deploymentPhase": "OFT",
       "brix": 10
     },
     {
-      "selection-id": "CB688.2",
-      "selection-name": "Julia",
-      "deployment-phase": "Early",
+      "selectionId": "CB688.2",
+      "selectionName": "Julia",
+      "deploymentPhase": "Early",
       "brix": 11
     },
     {
-      "selection-id": "RJ0799.3",
-      "selection-name": "Sofie",
-      "deployment-phase": "Advanced Selection",
+      "selectionId": "RJ0799.3",
+      "selectionName": "Sofie",
+      "deploymentPhase": "Advanced Selection",
       "brix": 15
     }
   ]
